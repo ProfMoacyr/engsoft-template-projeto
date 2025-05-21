@@ -57,7 +57,7 @@
 
 [Descrição geral da organização lógica do sistema]
 
-### 5.2 Pacotes de Design Significativos
+### 5.2 Padrões de Design Significativos
 
 [Descrição dos pacotes/módulos principais]
 
