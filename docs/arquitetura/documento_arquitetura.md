@@ -45,7 +45,7 @@
 
 ### 4.1 Diagrama de Casos de Uso
 
-[Diagrama ou referência para o diagrama]
+- [uc001](diagramas/casos_de_uso/template_caso_de_uso.md)
 
 ### 4.2 Descrição dos Casos de Uso Significativos
 
